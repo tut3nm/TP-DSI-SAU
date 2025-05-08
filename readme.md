@@ -2,3 +2,5 @@ https://o365sanfranciscoutneduar-my.sharepoint.com/:f:/g/personal/mmontiglio_fac
 
 Link de la carpeta de Onedrive donde se encuentra el proyecto entero. Dentro se encuentra tambíen este mismo repositorio
 en la carpeta llamada Code.
+
+//Aclaración: Hice las descripciones de casos de uso que considere necesario aclarar el proceso.
